@@ -1,5 +1,5 @@
 # login-out
-A repo for login system using Django, that will hone beginners development skills and also helping them to learn the functioning of login systems from a Developer’s point of view.
+A repo for login system using Django. It will hone beginners development skills and also helping them to learn the functioning of login systems from a Developer’s point of view.
 
 #### The project still in progress
 
